@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-05-07T15:07:32Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "doubleMaxi_Shield v4"
+        },
+        "Owner": "Justin Bracks <juzz@sas.upenn.edu>",
+        "Size": {
+            "X": 178.74,
+            "Y": 146.04
+        }
+    }
+}
